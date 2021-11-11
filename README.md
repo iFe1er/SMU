@@ -1,11 +1,13 @@
 # SMU 
 A Tensorflow Implementation of SMU: SMOOTH ACTIVATION FUNCTION FOR DEEP NETWORKS USING SMOOTHING MAXIMUM TECHNIQUE
 
-# arXiv
+## arXiv
 https://arxiv.org/abs/2111.04682
 
+## For Tensorflow (2.x)?
+Please check https://github.com/iFe1er/SMU_pytorch for pytorch implementation.
 
-# Reference:
+## Reference:
 >@ARTICLE{2021arXiv211104682B,
 >       author = {{Biswas}, Koushik and {Kumar}, Sandeep and {Banerjee}, Shilpak and {Pandey}, Ashish Kumar},
 >        title = "{SMU: smooth activation function for deep networks using smoothing maximum technique}",
