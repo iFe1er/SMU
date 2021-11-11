@@ -4,8 +4,11 @@ A Tensorflow Implementation of SMU: SMOOTH ACTIVATION FUNCTION FOR DEEP NETWORKS
 ## arXiv
 https://arxiv.org/abs/2111.04682
 
-## For Tensorflow (2.x)?
+## pytorch implementation
 Please check https://github.com/iFe1er/SMU_pytorch for pytorch implementation.
+
+## requirements
+Tested with Tensorflow 2.x. For Tensorflow 1, simply repalce tf.compat.v1.get_variable with tf.get_variable would do the trick.
 
 ## Reference:
 >@ARTICLE{2021arXiv211104682B,
